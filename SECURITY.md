@@ -7,14 +7,11 @@ If you think you have found a vulnerability in this repository, please report it
 
 **Please do not report security vulnerabilities through public issues, discussions, or pull requests.**
 
-Instead, report it using one of the following ways:
+Instead, you can create a [private vulnerability report using Github](https://github.com/eclipse-ankaios/ankaios/security/advisories/new).
+In this case, the Ankaios committers will be informed and only you and the committers will have access to this vulnerability report. You will get feedback there once the report has been analyzed.
+In the form to fill out, only the title and description are required, the rest of the fields are optional.
 
-* Contact the [Eclipse Foundation Security Team](mailto:security@eclipse-foundation.org) via email
-* Create a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability) in the Eclipse Foundation Vulnerability Reporting Tracker
-
-You can find more information about reporting and disclosure at the [Eclipse Foundation Security page](https://www.eclipse.org/security/).
-
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
+If you can, please include as much optional information listed below as you can to help us better understand and resolve the issue:
 
 * The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
 * Affected version(s)
@@ -23,7 +20,7 @@ Please include as much of the information listed below as you can to help us bet
 * The location of the affected source code (tag/branch/commit or direct URL)
 * Full paths of source file(s) related to the manifestation of the issue
 * Configuration required to reproduce the issue
-* Log files that are related to this issue (if possible)
-* Proof-of-concept or exploit code (if possible)
+* Log files that are related to this issue
+* Proof-of-concept or exploit code
 
 This information will help us triage your report more quickly.
